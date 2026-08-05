@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A0C10"/>
+      <stop offset="100%" stop-color="#12151C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5E8FFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5E8FFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- ambient scattered node texture -->
+  <g fill="#5E8FFF" opacity="0.06">
+    <circle cx="120" cy="40" r="2"/><circle cx="240" cy="90" r="1.5"/><circle cx="60" cy="180" r="2"/>
+    <circle cx="340" cy="30" r="1.5"/><circle cx="180" cy="250" r="2"/><circle cx="410" cy="150" r="1.5"/>
+    <circle cx="980" cy="40" r="1.5"/><circle cx="1050" cy="200" r="2"/><circle cx="1150" cy="80" r="1.5"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="64" y="140" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="42" font-weight="700" letter-spacing="2" fill="#E8EAF0">SARAVAN KUMAR</text>
+  <text x="66" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#7D8590">Engineering LLM · Agentic · RAG · Full-Stack Systems</text>
+  <text x="66" y="206" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#4B5563">AI Engineer — B.Tech ECE, SASTRA Deemed University</text>
+
+  <!-- signature: agent node-graph -->
+  <g transform="translate(760,60)">
+    <circle cx="200" cy="90" r="90" fill="url(#glow)"/>
+
+    <!-- base connections -->
+    <g stroke="#232733" stroke-width="1.5" fill="none">
+      <line x1="40" y1="130" x2="120" y2="70"/>
+      <line x1="120" y1="70" x2="200" y2="100"/>
+      <line x1="200" y1="100" x2="290" y2="50"/>
+      <line x1="200" y1="100" x2="260" y2="160"/>
+      <line x1="120" y1="70" x2="60" y2="30"/>
+      <line x1="290" y1="50" x2="350" y2="90"/>
+      <line x1="260" y1="160" x2="330" y2="180"/>
+    </g>
+
+    <!-- active connections -->
+    <g stroke="#5E8FFF" stroke-width="2" fill="none" opacity="0.9">
+      <line x1="120" y1="70" x2="200" y2="100"/>
+      <line x1="200" y1="100" x2="290" y2="50"/>
+    </g>
+
+    <!-- inactive nodes -->
+    <g fill="#2A2E38">
+      <circle cx="40" cy="130" r="5"/>
+      <circle cx="60" cy="30" r="4"/>
+      <circle cx="350" cy="90" r="4"/>
+      <circle cx="330" cy="180" r="5"/>
+      <circle cx="260" cy="160" r="5"/>
+    </g>
+
+    <!-- active nodes -->
+    <circle cx="120" cy="70" r="7" fill="#5E8FFF"/>
+    <circle cx="200" cy="100" r="9" fill="#9D8CFF"/>
+    <circle cx="290" cy="50" r="6" fill="#F2B84B"/>
+
+    <circle cx="200" cy="100" r="9" fill="none" stroke="#9D8CFF" stroke-width="1.5" opacity="0.6">
+      <animate attributeName="r" values="9;22;9" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
