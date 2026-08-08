@@ -1,10 +1,10 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%" alt="Saravan Kumar — Engineering LLM, Agentic, RAG & Full-Stack Systems" />
+<img src="./banner.svg" width="100%" alt="Saravan Kumar — Engineering LLM, Agentic, RAG & Full-Stack Systems" />
 </div>
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 🚀 About Me
 
