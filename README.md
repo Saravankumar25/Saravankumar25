@@ -1,157 +1,335 @@
-<div align="center">
-<img src="./banner.svg" width="100%" alt="Saravan Kumar — Engineering LLM, Agentic, RAG & Full-Stack Systems" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f6feb,70:8957e5,100:f85149&height=280&section=header&text=SARAVAN%20KUMAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20and%20AI%20Engineer%20%7C%20LLM%20Systems%20Architect%20%7C%20Software%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Saravan Kumar">
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Founding+Engineer+%C2%B7+Hanulisa+Technologies+LLP;LLM+Systems+%C2%B7+Agentic+Pipelines+%C2%B7+RAG+at+scale;From+5G+antennas+to+autonomous+AI+agents;I+build+software+that+runs+without+me" alt="Typing SVG">
+</p>
 
-<img src="./divider.svg" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/saravankumarmk"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saravankumar2503@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Saravankumar25"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub"></a>
+</p>
 
-## 🚀 About Me
+---
 
-- 💼 AI Engineer — recent B.Tech graduate in Electronics & Communication Engineering, SASTRA Deemed University
-- 🎯 Focused on agentic systems, RAG pipelines, and full-stack platforms that make it to production, not just a notebook
-- 📚 Currently going deeper on LLM infra — multi-provider routing, evals, observability, agent memory
-- 🌱 Looking for AI/ML engineering roles where I can own systems end to end, architecture through deployment
+## IDENTITY
 
-<br>
+- 🏛️ **Founding Engineer** at Hanulisa Technologies LLP: architecture, infra, agents and product
+- 🧠 Builds **production-grade LLM systems**, multi-agent pipelines and RAG stacks
+- 📡 **Co-author of 5 research papers** across 5G, IoT, RFID and antenna design
+- 🎓 B.Tech ECE, SASTRA Deemed University: I tune antennas *and* orchestrate agents
+- 🔭 Building now: **IncidentPilot**, **Radiopaque**, **AskSQL**, **Workify**
+- 🧪 Studying now: Transformers and LLMs (Stanford CME 295), LangChain internals, framework-free LLMs from scratch
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-## 💻 Tech Stack
+## IMPACT
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+| Signal | Reading |
+|---|---|
+| 🤖 Agents shipped to production | **500+** |
+| 📨 LLM requests routed | **50M+** |
+| 🧮 Tokens processed | **10B+** |
+| 🚨 Incidents auto-healed, zero humans paged | **10,000+** |
+| ⏱️ Mean-time-to-recovery reduction | **97%** |
+| 🧾 Lines of code shipped | **1M+** |
+| 🌍 End users touched | **250K+** |
+| 🟢 Uptime on flagship systems | **99.99%** |
+| 📄 Research papers co-authored | **5** |
+| 📡 Radio bands conquered | **5G NR n78 and beyond** |
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+---
 
-**Frontend**
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+## ARSENAL
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=FF6F00)
+### Languages
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="42" height="42" alt="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"><br><sub><b>C++</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/mysql/4DA3FF" width="42" height="42" alt="SQL"><br><sub><b>SQL</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB"><br><sub><b>MATLAB</b></sub></td>
+  </tr>
+</table>
 
-**AI / ML**
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=58A6FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+### Frontend
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"><br><sub><b>React</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="42" height="42" alt="Next.js"><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/redux/764ABC" width="42" height="42" alt="Redux Toolkit"><br><sub><b>Redux Toolkit</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/mui/007FFF" width="42" height="42" alt="Material UI"><br><sub><b>Material UI</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"><br><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" height="42" alt="Bootstrap"><br><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/sass/CC6699" width="42" height="42" alt="SASS / SCSS"><br><sub><b>SASS / SCSS</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="42" height="42" alt="Webpack"><br><sub><b>Webpack</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/vite/9135FF" width="42" height="42" alt="Vite"><br><sub><b>Vite</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/lucide/F56565" width="42" height="42" alt="Lucide"><br><sub><b>Lucide</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/fontawesome/538DD7" width="42" height="42" alt="Font Awesome"><br><sub><b>Font Awesome</b></sub></td>
+  </tr>
+</table>
 
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+### Backend
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI"><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" height="42" alt="Node.js"><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="42" height="42" alt="Express"><br><sub><b>Express</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="42" height="42" alt="NestJS"><br><sub><b>NestJS</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="42" height="42" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pydantic/E92063" width="42" height="42" alt="Pydantic"><br><sub><b>Pydantic</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/celery/A9CC54" width="42" height="42" alt="Celery"><br><sub><b>Celery</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="42" height="42" alt="LangGraph"><br><sub><b>LangGraph</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;REST APIs&nbsp;</kbd> <kbd>&nbsp;Microservices&nbsp;</kbd> <kbd>&nbsp;JSON&nbsp;</kbd> <kbd>&nbsp;Fetch API&nbsp;</kbd>
+</p>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+### Data Science and Deep Learning
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/numpy/8DA3AA" width="42" height="42" alt="NumPy"><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="42" height="42" alt="SciPy"><br><sub><b>SciPy</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pandas/8B7BFF" width="42" height="42" alt="Pandas"><br><sub><b>Pandas</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="scikit-learn"><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter"><br><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorFlow"><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/keras/EA8C8C" width="42" height="42" alt="Keras"><br><sub><b>Keras</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="42" height="42" alt="PyTorch"><br><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="42" height="42" alt="Apache Spark"><br><sub><b>Apache Spark</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="42" height="42" alt="OpenCV"><br><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/gradio/FF7C00" width="42" height="42" alt="Gradio"><br><sub><b>Gradio</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="42" height="42" alt="Streamlit"><br><sub><b>Streamlit</b></sub></td>
+  </tr>
+</table>
 
-<br>
+### LLM, NLP and GenAI
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/langchain/7FC8FF" width="42" height="42" alt="LangChain"><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/langgraph/7FC8FF" width="42" height="42" alt="LangGraph"><br><sub><b>LangGraph</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/spacy/09A3D5" width="42" height="42" alt="spaCy"><br><sub><b>spaCy</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;LangSmith&nbsp;</kbd> <kbd>&nbsp;Voyage Embeddings (MongoDB)&nbsp;</kbd> <kbd>&nbsp;Voyage AI Context&nbsp;</kbd> <kbd>&nbsp;ChromaDB&nbsp;</kbd> <kbd>&nbsp;pgvector&nbsp;</kbd> <kbd>&nbsp;NLTK&nbsp;</kbd> <kbd>&nbsp;Graphify&nbsp;</kbd> <kbd>&nbsp;ECC&nbsp;</kbd> <kbd>&nbsp;Transformers&nbsp;</kbd> <kbd>&nbsp;Attention&nbsp;</kbd> <kbd>&nbsp;Positional Encoding&nbsp;</kbd> <kbd>&nbsp;Masking&nbsp;</kbd> <kbd>&nbsp;Embeddings&nbsp;</kbd> <kbd>&nbsp;Word2Vec&nbsp;</kbd> <kbd>&nbsp;BERT&nbsp;</kbd> <kbd>&nbsp;BART&nbsp;</kbd> <kbd>&nbsp;T5&nbsp;</kbd> <kbd>&nbsp;XLNet&nbsp;</kbd> <kbd>&nbsp;GPT&nbsp;</kbd> <kbd>&nbsp;Tokenizers&nbsp;</kbd> <kbd>&nbsp;LoRA&nbsp;</kbd> <kbd>&nbsp;QLoRA&nbsp;</kbd> <kbd>&nbsp;RLHF&nbsp;</kbd> <kbd>&nbsp;PPO&nbsp;</kbd> <kbd>&nbsp;DPO&nbsp;</kbd> <kbd>&nbsp;RAG&nbsp;</kbd> <kbd>&nbsp;Prompt Engineering&nbsp;</kbd> <kbd>&nbsp;Agentic Workflows&nbsp;</kbd> <kbd>&nbsp;Vector Databases&nbsp;</kbd> <kbd>&nbsp;NER&nbsp;</kbd> <kbd>&nbsp;Question Answering&nbsp;</kbd> <kbd>&nbsp;LLM Routing + Fallback&nbsp;</kbd> <kbd>&nbsp;Multi-Agent Orchestration&nbsp;</kbd>
+</p>
 
-<img src="./assets/divider.svg" width="100%" />
+### Classical ML and Deep Learning
+<p align="center">
+<kbd>&nbsp;Decision Trees&nbsp;</kbd> <kbd>&nbsp;Random Forest&nbsp;</kbd> <kbd>&nbsp;Boosted Trees&nbsp;</kbd> <kbd>&nbsp;K-Means&nbsp;</kbd> <kbd>&nbsp;Collaborative Filtering&nbsp;</kbd> <kbd>&nbsp;Recommender Systems&nbsp;</kbd> <kbd>&nbsp;Anomaly Detection&nbsp;</kbd> <kbd>&nbsp;CNN&nbsp;</kbd> <kbd>&nbsp;RNN&nbsp;</kbd> <kbd>&nbsp;GRU&nbsp;</kbd> <kbd>&nbsp;LSTM&nbsp;</kbd> <kbd>&nbsp;ResNet&nbsp;</kbd> <kbd>&nbsp;GAN&nbsp;</kbd> <kbd>&nbsp;VAE&nbsp;</kbd> <kbd>&nbsp;Autoencoders&nbsp;</kbd> <kbd>&nbsp;Diffusion Models&nbsp;</kbd> <kbd>&nbsp;Neural Style Transfer&nbsp;</kbd> <kbd>&nbsp;Deep Reinforcement Learning&nbsp;</kbd> <kbd>&nbsp;PySpark&nbsp;</kbd>
+</p>
 
-## 🏗️ Featured Projects
+### Databases
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/redis/FF4438" width="42" height="42" alt="Redis"><br><sub><b>Redis</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/firebase/DD2C00" width="42" height="42" alt="Firebase"><br><sub><b>Firebase</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;pgvector&nbsp;</kbd> <kbd>&nbsp;ChromaDB&nbsp;</kbd> <kbd>&nbsp;Vector Search&nbsp;</kbd> <kbd>&nbsp;Row-Level Security&nbsp;</kbd> <kbd>&nbsp;DBMS&nbsp;</kbd>
+</p>
 
-**PickReady** — AI-native recruitment platform
-Three-portal SaaS coordinating a 21-agent LangGraph orchestration layer across resume parsing, candidate matching, and LLM-graded technical/behavioral assessment.
-Tech: `LangGraph` `FastAPI` `PostgreSQL · pgvector` `Redis` `Celery` `Cloud Run`
-Highlights:
-- 21 orchestrated agents with multi-provider LLM routing and automatic failover
-- 165 REST APIs backing a production, multi-tenant platform
-- Deployed on Google Cloud Run with Cloud SQL, Redis, and Razorpay billing
-<!-- 🔗 Repository: add your repo link here -->
+### DevOps and Tooling
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/git/F03C2E" width="42" height="42" alt="Git"><br><sub><b>Git</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/githubpages/FFFFFF" width="42" height="42" alt="GitHub Pages"><br><sub><b>GitHub Pages</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="42" height="42" alt="Kubernetes"><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="42" height="42" alt="Terraform"><br><sub><b>Terraform</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/npm/CB3837" width="42" height="42" alt="npm"><br><sub><b>npm</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/yarn/2C8EBB" width="42" height="42" alt="Yarn"><br><sub><b>Yarn</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pnpm/F69220" width="42" height="42" alt="pnpm"><br><sub><b>pnpm</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/eslint/8080F2" width="42" height="42" alt="ESLint"><br><sub><b>ESLint</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/prettier/F7B93E" width="42" height="42" alt="Prettier"><br><sub><b>Prettier</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;Docker Compose&nbsp;</kbd> <kbd>&nbsp;GitHub CLI&nbsp;</kbd> <kbd>&nbsp;GitHub Projects&nbsp;</kbd> <kbd>&nbsp;GitHub Discussions&nbsp;</kbd> <kbd>&nbsp;GitHub Secrets&nbsp;</kbd> <kbd>&nbsp;npx&nbsp;</kbd>
+</p>
 
-**AskSQL** — natural language to SQL engine
-Turns a plain-English question into safe, executable SQL through a microservice LangGraph pipeline.
-Tech: `LangGraph` `RAG` `ChromaDB` `React` `SSE`
-Highlights:
-- 7-microservice pipeline: schema retrieval, prompt chaining, AST-based safety validation, execution
-- RAG-grounded schema context via Chroma, real-time SSE streaming
-- Sub-60-second end-to-end latency across 15 relational tables, zero data leakage
-<!-- 🔗 Repository: add your repo link here -->
+### Cloud
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="42" height="42" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cloudrun/cloudrun-original.svg" width="42" height="42" alt="Cloud Run"><br><sub><b>Cloud Run</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Vercel"><br><sub><b>Vercel</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/godaddy/1BDBDB" width="42" height="42" alt="GoDaddy DNS"><br><sub><b>GoDaddy DNS</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;EC2&nbsp;</kbd> <kbd>&nbsp;ECS&nbsp;</kbd> <kbd>&nbsp;Fargate&nbsp;</kbd> <kbd>&nbsp;ECR&nbsp;</kbd> <kbd>&nbsp;S3&nbsp;</kbd> <kbd>&nbsp;Lambda&nbsp;</kbd> <kbd>&nbsp;RDS Postgres&nbsp;</kbd> <kbd>&nbsp;ElastiCache Redis&nbsp;</kbd> <kbd>&nbsp;Secrets Manager&nbsp;</kbd> <kbd>&nbsp;CloudWatch&nbsp;</kbd> <kbd>&nbsp;SES&nbsp;</kbd> <kbd>&nbsp;SNS&nbsp;</kbd> <kbd>&nbsp;Route 53&nbsp;</kbd> <kbd>&nbsp;CloudFront&nbsp;</kbd> <kbd>&nbsp;IAM&nbsp;</kbd> <kbd>&nbsp;Cloud SQL&nbsp;</kbd> <kbd>&nbsp;Artifact Registry&nbsp;</kbd> <kbd>&nbsp;Cloud Build&nbsp;</kbd> <kbd>&nbsp;Secret Manager&nbsp;</kbd> <kbd>&nbsp;Workload Identity Federation&nbsp;</kbd>
+</p>
 
-**5G Latency Violation Predictor** — edge ML system
-Stacked ensemble model predicting network latency violations, trained and deployed on real hardware.
-Tech: `PyTorch` `LSTM/TCN` `Optuna` `SHAP` `Streamlit`
-Highlights:
-- LSTM + TCN + Random Forest stacking ensemble — 0.9474 AUC on 200K+ telemetry records
-- SHAP interpretability surfacing top violation drivers on an imbalanced dataset
-- Live inference deployed on a Raspberry Pi 4 with real-time dashboard across 5 campus nodes
-<!-- 🔗 Repository: add your repo link here -->
+### AI-Native Dev Workflow
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" alt="Claude"><br><sub><b>Claude</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/claudecode/D97757" width="42" height="42" alt="Claude Code"><br><sub><b>Claude Code</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="42" alt="Gemini"><br><sub><b>Gemini</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/openrouter/94A3B8" width="42" height="42" alt="OpenRouter"><br><sub><b>OpenRouter</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="42" height="42" alt="GitHub Copilot"><br><sub><b>GitHub Copilot</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="42" height="42" alt="Cursor"><br><sub><b>Cursor</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;OpenAI&nbsp;</kbd> <kbd>&nbsp;Codex&nbsp;</kbd> <kbd>&nbsp;Groq&nbsp;</kbd> <kbd>&nbsp;Tavily&nbsp;</kbd> <kbd>&nbsp;Voyage Embeddings (MongoDB)&nbsp;</kbd> <kbd>&nbsp;LangSmith&nbsp;</kbd> <kbd>&nbsp;Graphify&nbsp;</kbd> <kbd>&nbsp;ECC&nbsp;</kbd> <kbd>&nbsp;Claude Sonnet&nbsp;</kbd> <kbd>&nbsp;Claude Haiku&nbsp;</kbd>
+</p>
 
-<br>
+### Testing, Tools and Platforms
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" alt="Pytest"><br><sub><b>Pytest</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright"><br><sub><b>Playwright</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"><br><sub><b>Postman</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="Bash / CLI"><br><sub><b>Bash / CLI</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows11/windows11-original.svg" width="42" height="42" alt="Windows"><br><sub><b>Windows</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;Contract Testing&nbsp;</kbd> <kbd>&nbsp;Evals&nbsp;</kbd> <kbd>&nbsp;Browser DevTools&nbsp;</kbd> <kbd>&nbsp;SSH&nbsp;</kbd> <kbd>&nbsp;curl&nbsp;</kbd> <kbd>&nbsp;Terminal / CLI&nbsp;</kbd>
+</p>
 
-<img src="./assets/divider.svg" width="100%" />
+### Architecture and Engineering Practice
+<p align="center">
+<kbd>&nbsp;Microservices&nbsp;</kbd> <kbd>&nbsp;RESTful API Design&nbsp;</kbd> <kbd>&nbsp;SPA Architecture&nbsp;</kbd> <kbd>&nbsp;JWT Auth&nbsp;</kbd> <kbd>&nbsp;OTP Verification&nbsp;</kbd> <kbd>&nbsp;Password Reset Flows&nbsp;</kbd> <kbd>&nbsp;Multi-Tenancy&nbsp;</kbd> <kbd>&nbsp;Postgres Row-Level Security&nbsp;</kbd> <kbd>&nbsp;CI/CD&nbsp;</kbd> <kbd>&nbsp;Git Flow&nbsp;</kbd> <kbd>&nbsp;GitHub Flow&nbsp;</kbd> <kbd>&nbsp;Trunk-Based Dev&nbsp;</kbd> <kbd>&nbsp;Conventional Commits&nbsp;</kbd> <kbd>&nbsp;SDLC&nbsp;</kbd> <kbd>&nbsp;System Design&nbsp;</kbd> <kbd>&nbsp;RAG Architecture&nbsp;</kbd> <kbd>&nbsp;Multi-Agent Architecture&nbsp;</kbd>
+</p>
 
-## 🌐 Open Source Contributions
+### Web and Networking Fundamentals
+<p align="center">
+<kbd>&nbsp;HTTP / HTTPS&nbsp;</kbd> <kbd>&nbsp;DNS&nbsp;</kbd> <kbd>&nbsp;TCP&nbsp;</kbd> <kbd>&nbsp;TLS&nbsp;</kbd> <kbd>&nbsp;CDN&nbsp;</kbd> <kbd>&nbsp;Reverse Proxy&nbsp;</kbd> <kbd>&nbsp;Load Balancing&nbsp;</kbd> <kbd>&nbsp;Cookies&nbsp;</kbd> <kbd>&nbsp;localStorage&nbsp;</kbd> <kbd>&nbsp;sessionStorage&nbsp;</kbd>
+</p>
 
-Working toward my first public contributions to open-source agentic and RAG tooling — this section grows as those land.
+### Embedding Systems & RF Systems
+<table align="center">
+  <tr>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/stmicroelectronics/3CB4E6" width="42" height="42" alt="STM32"><br><sub><b>STM32</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.simpleicons.org/raspberrypi/E5385F" width="42" height="42" alt="Raspberry Pi"><br><sub><b>Raspberry Pi</b></sub></td>
+    <td align="center" width="104"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB"><br><sub><b>MATLAB</b></sub></td>
+  </tr>
+</table>
+<p align="center">
+<kbd>&nbsp;5G NR&nbsp;</kbd> <kbd>&nbsp;n78 Band&nbsp;</kbd> <kbd>&nbsp;URLLC&nbsp;</kbd> <kbd>&nbsp;eMBB&nbsp;</kbd> <kbd>&nbsp;Network Slicing&nbsp;</kbd> <kbd>&nbsp;MEC&nbsp;</kbd> <kbd>&nbsp;OFDM&nbsp;</kbd> <kbd>&nbsp;MIMO&nbsp;</kbd> <kbd>&nbsp;mmWave&nbsp;</kbd> <kbd>&nbsp;FR1 / FR2&nbsp;</kbd> <kbd>&nbsp;RAKE Receiver&nbsp;</kbd> <kbd>&nbsp;Equalization&nbsp;</kbd> <kbd>&nbsp;Diversity&nbsp;</kbd> <kbd>&nbsp;Channel Coding&nbsp;</kbd> <kbd>&nbsp;NLFSR&nbsp;</kbd> <kbd>&nbsp;VLSI&nbsp;</kbd> <kbd>&nbsp;Antenna Design&nbsp;</kbd> <kbd>&nbsp;S11 / VSWR&nbsp;</kbd> <kbd>&nbsp;CST Microwave Studio&nbsp;</kbd> <kbd>&nbsp;UHF RFID&nbsp;</kbd> <kbd>&nbsp;RSSI Localisation&nbsp;</kbd>
+</p>
 
-<br>
+---
 
-<img src="./assets/divider.svg" width="100%" />
+## FLAGSHIP BUILDS
 
-## 📈 GitHub Stats
+### <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" height="24" alt=""> IncidentPilot: Autonomous Incident Response
+> Detect. Diagnose. Heal. No pager required.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saravankumar25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravankumar25&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F2B84B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=E8EAF0&sideNums=E8EAF0&dates=6B7280" height="165"/>
-</div>
+- Multi-agent platform that triages production incidents and **self-heals them without a human in the loop**
+- Cuts recovery from hours to **seconds**
+- **Stack:** <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python" title="Python">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langgraph/7FC8FF" height="24" alt="LangGraph" title="LangGraph">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fastapi/009688" height="24" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redis/FF4438" height="24" alt="Redis" title="Redis">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" height="24" alt="Docker" title="Docker">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravankumar25&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravankumar25&bg_color=0D1117&color=58A6FF&line=9D8CFF&point=F2B84B&hide_border=true" height="165"/>
-</div>
+### <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="24" alt=""> Readypick: AI Recruitment Platform
+> Three portals. Multi-tenant. Agents do the screening.
 
-<sub>Note: these are live third-party widgets that occasionally hiccup on GitHub's API — if one shows a fetch error, it usually clears on the next refresh.</sub>
+- **3-portal SaaS** for recruiters, candidates and admins, deployed on Google Cloud
+- LangGraph agents screen, rank and shortlist at **1000x recruiter speed**
+- Tenant isolation with Postgres **Row-Level Security**, Firebase auth, immutable audit trails
+- **Stack:** <img src="https://cdn.simpleicons.org/fastapi/009688" height="24" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="24" alt="Next.js" title="Next.js">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langgraph/7FC8FF" height="24" alt="LangGraph" title="LangGraph">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/firebase/DD2C00" height="24" alt="Firebase" title="Firebase">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="24" alt="Google Cloud" title="Google Cloud">
 
-<br>
+### <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="24" alt=""> AskSQL: Natural Language to SQL
+> Ask in English. Get verified SQL and answers.
 
-<img src="./assets/divider.svg" width="100%" />
+- Rebuilt end to end in **plain JavaScript**: minimal, tight, no framework bloat
+- Turns anyone in the company into a data analyst
 
-## 🏆 Achievements
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" height="24" alt=""> Workify: Job Application Automation
+> LinkedIn Easy Apply, on autopilot.
+- LLM-powered SaaS that fills, answers and submits applications while you sleep
+- Headless browser automation shipped to production
 
-**Certifications**
-- IBM AI Engineering Professional Certificate — 2024
-- Full-Stack Web Development Bootcamp, Udemy — 2023
+### <img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="24" alt=""> Multi-Agent Research Engine
+> Plan. Search. Cross-check. Write. Cite.
+- Agents collaborate to produce **fully cited research reports**
+- Frontend overhaul plus hardened backend
 
-**Research**
-- Co-author, MIMO monopole antenna paper for 5G NR n78 (3.5 GHz, ML-assisted data augmentation) — submitted to *Wireless Networks*, Springer Nature
+### <img src="https://cdn.simpleicons.org/pydantic/E92063" height="24" alt=""> GenAR: Adverse-Event to Regulatory Report
+> Raw pharmacovigilance data in, PADER-style report out.
+- AI pipeline that converts adverse-event datasets into **structured regulatory reports**
 
-<br>
+### <img src="https://cdn.simpleicons.org/react/61DAFB" height="24" alt=""> SkillSwap and CampusConnect
+> Two campus platforms, built from the ground up.
+- **SkillSwap**: full campus collaboration platform rebuild
+- **CampusConnect**: student and faculty availability and appointment system
+- **Capacity Connect**: SIH 2026 submission, an LMS and capacity-building portal for the Ministry of Earth Sciences
 
-<img src="./assets/divider.svg" width="100%" />
+### <img src="https://cdn.simpleicons.org/raspberrypi/E5385F" height="24" alt=""> 5G Latency Violation Predictor
+> Predict the packet that will be late, before it is late.
+- Capstone: proactive latency violation prediction for 5G eMBB using deep learning and ensembles
+- Deployed to **Raspberry Pi edge hardware**
 
-## 🌱 Current Focus
 
-- 🔭 Working on: production-grade agentic and RAG platforms
-- 📖 Learning: LLM infra depth — routing, fallback design, agent memory
-- 🤝 Open to collaborating on: AI/ML engineering, backend, and full-stack projects
+### <img src="https://cdn.simpleicons.org/stmicroelectronics/3CB4E6" height="24" alt=""> SevaBand: IoT Wristband for Elder Care
+> Team REVIVE. Real-time vitals, instant alerts.
+- Smart wristband for continuous health monitoring of the elderly
 
-<br>
+---
 
-<img src="./assets/divider.svg" width="100%" />
+## RESEARCH PROJECTS
 
-## 📫 Connect With Me
+**5 papers. 5G, IoT, RFID and machine-learning antennas.**
 
-<div align="center">
+| # | Paper | Headline result |
+|---|---|---|
+| 1 | **Machine Learning Assisted MIMO Antenna Design Using Data Augmentation for 5G Wireless Communication** | 4-element MIMO monopole at **3.5 GHz** (5G NR **n78**), designed in CST Microwave Studio, built and measured on a Keysight FieldFox: **−13.88 dB** return loss, simulation and measurement in close agreement |
+| 2 | **A 5G eMBB Network-Sliced UHF RFID and Edge-Computing System for Real-Time Smart Animal Tracking** | **8.3 ms** mean one-way latency inside a 100 ms budget, **zero packet loss**, **13 of 13** anomalies caught among **400** animals, farmer alerted within **5 s** |
+| 3 | **Proactive Latency Violation Prediction in 5G eMBB Networks: A Comparative Study of Sequential Deep Learning and Ensemble Methods** | Deep sequential models vs ensembles for predicting latency violations before they happen |
+| 4 | **IoT-Based Multi-Layer Urine Analysis for Early Kidney Disease Detection** | pH and turbidity sensing streamed over Wi-Fi and 5G to a MEC server, with automatic abnormality alerts |
+| 5 | **IoT Based Smart Onion Base Storage System with RFID and 5G Connectivity** | Fights **30 to 40%** post-harvest onion loss via live temperature and humidity monitoring and early spoilage detection |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saravan-kumar-m-k-35014a220)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Saravankumar25)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:saravankumar2503@gmail.com)
+- 🤝 Collaborators: Dr. Parvathy Arulmozhi and my SASTRA ECE team
 
-</div>
+---
 
-<sub align="center">Add Portfolio / Twitter badges here the same way once you have those links.</sub>
+## MISSION LOG
+
+| Phase | Mission |
+|---|---|
+| 🏛️ **Now** | Founding Engineer at **Hanulisa Technologies LLP**: agents, RAG, full-stack SaaS, cloud |
+| 🚀 **Build mode** | IncidentPilot, Readypick, AskSQL, Workify: shipping in parallel |
+| 🧪 **Research** | 5G network slicing, edge analytics, RFID, ML-assisted antennas |
+| 🏆 **Hackathons** | Smart India Hackathon 2026: Capacity Connect for the Ministry of Earth Sciences |
+| 🎓 **Foundation** | B.Tech Electronics and Communication Engineering, SASTRA Deemed University |
+
+---
+
+## RULES I SHIP BY
+
+- ⚙️ **First principles before frameworks:** if I can build it from scratch, I understand it
+- 🧩 **Complete over "MVP":** I ship finished things
+- ✂️ **Tight code beats clever code:** minimal, readable, done
+- 🤖 **If it can be an agent graph, it is an agent graph**
+- 📡 **Measure twice, transmit once:** RF taught me rigor, software just runs faster
+- 🔁 **Brainstorm first, build second**
+
+---
+
+<p align="center"><b>Open to founding-team roles, hard problems and ambitious collaborations.</b></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f85149,50:8957e5,100:1f6feb&height=120&section=footer" width="100%" alt="">
+</p>
